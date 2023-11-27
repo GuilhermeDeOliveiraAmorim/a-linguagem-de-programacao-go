@@ -1,3 +1,63 @@
+# Projeto de Estudo: Explorando a Linguagem de Programação Go
+
+## Objetivo
+O objetivo principal deste projeto de médio prazo é aprofundar o conhecimento na linguagem de programação Go, abordando cada tópico do livro "The Go Programming Language". O resultado será uma documentação detalhada e exemplos práticos, organizados em repositórios no GitHub.
+
+## Metodologia
+
+1. **Estudo Sistematizado:**
+   - Cada capítulo do livro será abordado de maneira sistemática, com leituras aprofundadas e práticas associadas.
+
+2. **Documentação no GitHub:**
+   - Criação de repositórios individuais para cada capítulo ou conjunto de tópicos relacionados.
+   - Documentação clara e concisa utilizando o formato README.md para cada repositório.
+
+3. **Exemplos Práticos:**
+   - Implementação de exemplos práticos para ilustrar conceitos específicos.
+   - Utilização de boas práticas de codificação e comentários informativos.
+
+4. **Exploração de Projetos Paralelos:**
+   - Desenvolvimento de projetos práticos paralelos para aplicar os conceitos aprendidos.
+   - Utilização de ferramentas e bibliotecas populares da linguagem.
+
+5. **Interação com a Comunidade:**
+   - Compartilhamento do progresso e dúvidas em fóruns e grupos relacionados à linguagem Go.
+   - Aceitação de feedback da comunidade para aprimorar a compreensão e a aplicação dos conceitos.
+
+## Cronograma Sugerido
+
+1. **Fase de Preparação (1 mês):**
+   - Leitura inicial do livro "The Go Programming Language".
+   - Configuração do ambiente de desenvolvimento.
+
+2. **Estudo por Capítulo (4 a 6 meses):**
+   - Dedicação semanal para estudar e praticar um ou mais capítulos do livro.
+   - Criação de repositórios e documentação para cada capítulo.
+
+3. **Projetos Paralelos (3 meses):**
+   - Desenvolvimento de projetos práticos para aplicação dos conhecimentos adquiridos.
+   - Integração contínua com os repositórios de estudo.
+
+4. **Revisão e Ajustes (1 mês):**
+   - Revisão geral da documentação e exemplos práticos.
+   - Correções e melhorias com base no feedback da comunidade.
+
+## Resultados Esperados
+
+1. **Documentação Abrangente:**
+   - Repositórios bem organizados com documentação abrangente para cada tópico estudado.
+
+2. **Exemplos Práticos Demonstrativos:**
+   - Códigos-fonte de exemplos práticos, demonstrando a aplicação dos conceitos.
+
+3. **Contribuição para a Comunidade:**
+   - Participação ativa em fóruns e grupos, compartilhando conhecimento e experiências.
+
+4. **Desenvolvimento de Habilidades Práticas:**
+   - Habilidade aprimorada no desenvolvimento de software em Go, com ênfase em boas práticas.
+
+Este projeto não apenas visa dominar a linguagem Go, mas também contribuir para a comunidade de desenvolvedores, proporcionando recursos valiosos para aqueles que desejam aprender e aprimorar suas habilidades na linguagem. O progresso será acompanhado de perto, permitindo ajustes conforme necessário ao longo do tempo.
+
 # Prefácio
 - [ ] Origens de Go
 - [ ] Projeto Go
