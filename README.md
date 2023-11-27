@@ -42,20 +42,6 @@ O objetivo principal deste projeto de médio prazo é aprofundar o conhecimento 
    - Revisão geral da documentação e exemplos práticos.
    - Correções e melhorias com base no feedback da comunidade.
 
-## Resultados Esperados
-
-1. **Documentação Abrangente:**
-   - Repositórios bem organizados com documentação abrangente para cada tópico estudado.
-
-2. **Exemplos Práticos Demonstrativos:**
-   - Códigos-fonte de exemplos práticos, demonstrando a aplicação dos conceitos.
-
-3. **Contribuição para a Comunidade:**
-   - Participação ativa em fóruns e grupos, compartilhando conhecimento e experiências.
-
-4. **Desenvolvimento de Habilidades Práticas:**
-   - Habilidade aprimorada no desenvolvimento de software em Go, com ênfase em boas práticas.
-
 Este projeto não apenas visa dominar a linguagem Go, mas também contribuir para a comunidade de desenvolvedores, proporcionando recursos valiosos para aqueles que desejam aprender e aprimorar suas habilidades na linguagem. O progresso será acompanhado de perto, permitindo ajustes conforme necessário ao longo do tempo.
 
 # Prefácio
