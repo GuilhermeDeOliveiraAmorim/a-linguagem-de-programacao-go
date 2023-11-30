@@ -11,7 +11,7 @@
 Ano de criação: 2007
 Criadores (Google): 
 
-![ops](https://en.wikipedia.org/wiki/Robert_Griesemer#/media/File:Robert_Griesemer.jpg)
+![ops]([https://en.wikipedia.org/wiki/Robert_Griesemer#/media/File:Robert_Griesemer.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Robert_Griesemer.jpg/800px-Robert_Griesemer.jpg)https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Robert_Griesemer.jpg/800px-Robert_Griesemer.jpg)
 [Robert Griesemer](https://github.com/griesemer)
 
 [Rob Pike]()
