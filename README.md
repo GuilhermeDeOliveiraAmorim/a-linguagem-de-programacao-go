@@ -47,9 +47,6 @@ Este projeto não apenas visa dominar a linguagem Go, mas também contribuir par
 # Prefácio
 - [ ] Origens de Go
 - [ ] Projeto Go
-- [ ] Como este livro está organizado
-- [ ] Onde encontrar mais informações
-- [ ] Agradecimentos
 
 # 1 Tutorial
 - [ ] Hello, World
