@@ -11,12 +11,14 @@
 Ano de criação: 2007
 Criadores (Google): 
 
-![ops](800px-Robert_Griesemer.jpg)
+![Robert Griesemer](robert_griesemer.jpeg)
 [Robert Griesemer](https://github.com/griesemer)
 
-[Rob Pike]()
+![Rob Pike](rob_pike.jpeg)
+[Rob Pike](https://github.com/robpike)
 
-[Ken Thompson]()
+![Ken Thompson](ken_thompson.jpg)
+[Ken Thompson](https://pt.wikipedia.org/wiki/Ken_Thompson)
 
 
 # Meu Projeto
