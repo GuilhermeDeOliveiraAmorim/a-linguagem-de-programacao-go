@@ -20,16 +20,12 @@ Criadores (Google):
 ![Ken Thompson](ken_thompson.jpg)
 [Ken Thompson](https://pt.wikipedia.org/wiki/Ken_Thompson)
 
+Existe uma semelhança com C. É uma linguagem para programadores profissionais, que permite alcançar bons resultados com menos esforço.
 
-# Meu Projeto
+Tem ótimos recursos para concorrência, é bem flexível e possui garbage collection.
 
-Bem-vindo ao meu incrível projeto!
+Tem grande utilidade em levantar infraestrutura de servidores em rede e usada bastante para montar ferramentas voltadas para desenvolvedores.
 
-## Links
+Porém, é de fato uma linguagem de propósito geral. É fortimente tipada. É de código aberto e está disponível para quem queira contribuir.
 
-- [Google](https://www.google.com)
-- [GitHub](https://www.github.com)
-
-## Logo
-
-![Logo do GitHub](https://github.com/logos/github-logo.png)
+Roda em Unix - Linux, FreeBSD, OpenBSD, Mac OS X -, Plan 9 e no Microsoft Windows.
