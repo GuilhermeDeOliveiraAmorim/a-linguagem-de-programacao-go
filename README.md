@@ -29,3 +29,10 @@ Tem grande utilidade em levantar infraestrutura de servidores em rede e usada ba
 Porém, é de fato uma linguagem de propósito geral. É fortimente tipada. É de código aberto e está disponível para quem queira contribuir.
 
 Roda em Unix - Linux, FreeBSD, OpenBSD, Mac OS X -, Plan 9 e no Microsoft Windows.
+
+## Origens de Go
+
+![Origens do Go](historico_do_go.jpg)
+
+De C, Go herdou a sintaxe de suas expressões, controle de fluxo, tipos de dados, passagem de parâmetro por valor, ponteiros e, ser compilada em código de máquina eficiente e com abstrações dos sistemas operacionais.
+
